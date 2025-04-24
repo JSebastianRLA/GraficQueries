@@ -17,5 +17,3 @@ while true; do
     echo "$timestamp,$qps" >> dns_queries.csv
     sleep 10  # Captura cada 10 minutos
 done
-
-
